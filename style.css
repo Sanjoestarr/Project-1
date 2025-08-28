@@ -138,3 +138,11 @@ ul{
     background-color: blue;
     cursor:pointer;
 }
+
+/* Slide */
+.slide {
+  width: 90%;
+  margin: auto;
+  background-color: aqua;
+  height: 600px;
+}
